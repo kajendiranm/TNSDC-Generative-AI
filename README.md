@@ -7,6 +7,7 @@ You can use the chatbot in two ways. First, open a file called ecommerce-chatbot
 Second, you can use the chatbot on a website. This chatbot was made using a framework called Django. To use it, go to the django-implemented-chatbot folder in the repository and follow the instructions to start the web-based chatbot. After running the development server goto url/chat to access the chatbot.
 
 Requirements:
+
 1)Software Requirements:
 
     Python
